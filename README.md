@@ -14,7 +14,3 @@ Going forward, I would begin software projects by reviewing the client's goals a
 
 - **Project One:** [Business Requirements Document](Charles_Kwena_CS255_Project_One_Business_Requirements%20(2).docx)
 - **Project Two:** [System Design Document](Charles_Kwena_CS255_Project_Two_System_Design.docx)
-
-## AI Use Acknowledgment
-
-I used ChatGPT (OpenAI) to help organize and refine the writing in my portfolio reflection and to support preparation of the requirements documentation. I reviewed the material against the DriverPass interview and course assignment requirements.
